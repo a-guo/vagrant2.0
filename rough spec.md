@@ -21,9 +21,9 @@
 4. Once you get real confident build a whole cluster :lol:
 
 ## Resources
-simple: https://github.com/ahsanj/splunk-vagrant
-complex: https://github.com/moolibdensplk/control_repo
-video: *ask Ruth*
+simple: https://github.com/ahsanj/splunk-vagrant  
+complex: https://github.com/moolibdensplk/control_repo  
+video: *ask Ruth*  
 
 ## Important Contacts
 Marcin Stangel (he made the complex github & video)
